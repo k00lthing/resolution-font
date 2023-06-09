@@ -1,0 +1,39 @@
+{
+color = 4;
+glyphname = I;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+closed = 1;
+nodes = (
+(15,0,l),
+(415,0,l),
+(415,600,l),
+(15,600,l)
+);
+}
+);
+width = 430;
+},
+{
+layerId = m002;
+shapes = (
+{
+closed = 1;
+nodes = (
+(5,0,l),
+(605,0,l),
+(605,600,l),
+(5,600,l)
+);
+}
+);
+width = 610;
+}
+);
+metricLeft = "=O";
+metricRight = "=O";
+unicode = (73,105);
+}

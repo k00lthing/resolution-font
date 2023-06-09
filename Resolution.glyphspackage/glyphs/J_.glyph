@@ -1,0 +1,43 @@
+{
+color = 4;
+glyphname = J;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+closed = 1;
+nodes = (
+(110,100,l),
+(15,100,l),
+(15,0,l),
+(615,0,l),
+(615,600,l),
+(110,600,l)
+);
+}
+);
+width = 630;
+},
+{
+layerId = m002;
+shapes = (
+{
+closed = 1;
+nodes = (
+(5,100,l),
+(5,100,l),
+(5,0,l),
+(605,0,l),
+(605,600,l),
+(6,600,l)
+);
+}
+);
+width = 610;
+}
+);
+metricLeft = "=O";
+metricRight = "=O";
+unicode = (74,106);
+}

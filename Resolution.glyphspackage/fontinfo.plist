@@ -1,0 +1,126 @@
+{
+.appVersion = "3151";
+.formatVersion = 3;
+axes = (
+{
+name = Weight;
+tag = wght;
+}
+);
+customParameters = (
+{
+name = "Color Palettes";
+value = (
+(
+(255,0,0,255),
+(51,168,0,255)
+)
+);
+}
+);
+date = "2023-03-05 11:23:11 +0000";
+familyName = "Resolution Display ";
+featurePrefixes = (
+{
+automatic = 1;
+code = "languagesystem DFLT dflt;
+";
+name = Languagesystems;
+}
+);
+fontMaster = (
+{
+axesValues = (
+800
+);
+iconName = SemiBold;
+id = m01;
+metricValues = (
+{
+over = 16;
+pos = 600;
+},
+{
+over = -16;
+}
+);
+name = Black;
+stemValues = (
+100
+);
+userData = {
+GSOffsetHorizontal = 25;
+GSOffsetMakeStroke = 1;
+GSOffsetPosition = 0;
+GSOffsetVertical = 30;
+};
+},
+{
+axesValues = (
+900
+);
+iconName = Bold;
+id = m002;
+metricValues = (
+{
+over = 16;
+pos = 600;
+},
+{
+over = -16;
+}
+);
+name = Full;
+stemValues = (
+0
+);
+}
+);
+instances = (
+{
+axesValues = (
+800
+);
+instanceInterpolations = {
+m01 = 1;
+};
+name = Black;
+weightClass = 800;
+widthClass = 7;
+},
+{
+axesValues = (
+900
+);
+instanceInterpolations = {
+m002 = 1;
+};
+name = Full;
+weightClass = 900;
+widthClass = 9;
+}
+);
+metrics = (
+{
+type = "cap height";
+},
+{
+type = baseline;
+}
+);
+stems = (
+{
+name = "Single Width";
+}
+);
+unitsPerEm = 1000;
+userData = {
+GSDimensionPlugin.Dimensions = {
+m01 = {
+};
+};
+GSDontShowVersionAlert = 1;
+};
+versionMajor = 1;
+versionMinor = 0;
+}

@@ -1,1 +1,1 @@
-# resolution-font
+# Resolution All Caps Variable Font

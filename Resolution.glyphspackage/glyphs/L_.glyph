@@ -1,0 +1,43 @@
+{
+color = 4;
+glyphname = L;
+layers = (
+{
+layerId = m002;
+shapes = (
+{
+closed = 1;
+nodes = (
+(5,0,l),
+(605,0,l),
+(605,100,l),
+(605,100,l),
+(605,600,l),
+(5,600,l)
+);
+}
+);
+width = 610;
+},
+{
+layerId = m01;
+shapes = (
+{
+closed = 1;
+nodes = (
+(15,0,l),
+(615,0,l),
+(615,100,l),
+(510,100,l),
+(510,600,l),
+(15,600,l)
+);
+}
+);
+width = 630;
+}
+);
+metricLeft = "=O";
+metricRight = "=O";
+unicode = (76,108);
+}

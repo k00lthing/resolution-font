@@ -1,0 +1,42 @@
+{
+glyphname = nine;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+closed = 1;
+nodes = (
+(15,136,l),
+(364,136,l),
+(364,0,l),
+(615,0,l),
+(615,600,l),
+(15,600,l)
+);
+}
+);
+width = 630;
+},
+{
+layerId = m002;
+shapes = (
+{
+closed = 1;
+nodes = (
+(5,136,l),
+(5,136,l),
+(5,0,l),
+(605,0,l),
+(605,600,l),
+(5,600,l)
+);
+}
+);
+width = 610;
+}
+);
+metricLeft = "=O";
+metricRight = "=O";
+unicode = 57;
+}
