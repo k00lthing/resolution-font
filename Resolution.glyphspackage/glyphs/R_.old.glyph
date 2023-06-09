@@ -1,0 +1,94 @@
+{
+color = 4;
+export = 0;
+glyphname = R.old;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+closed = 1;
+nodes = (
+(15,0,l),
+(210,0,l),
+(210,200,l),
+(605,200,l),
+(605,600,l),
+(15,600,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(453,0,l),
+(603,0,l),
+(603,150,l),
+(453,150,l)
+);
+}
+);
+width = 620;
+},
+{
+layerId = m002;
+shapes = (
+{
+closed = 1;
+nodes = (
+(5,0,l),
+(200,0,l),
+(200,150,l),
+(593,150,l),
+(595,600,l),
+(5,600,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(200,0,l),
+(593,0,l),
+(593,150,l),
+(200,150,l)
+);
+}
+);
+width = 600;
+},
+{
+associatedMasterId = m01;
+attr = {
+coordinates = (
+850
+);
+};
+layerId = "E4199F7E-9388-40DE-8489-A545F9661150";
+name = "9. Jun 23, 12:28";
+shapes = (
+{
+closed = 1;
+nodes = (
+(10,0,l),
+(205,0,l),
+(205,200,l),
+(600,200,l),
+(600,600,l),
+(10,600,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(255,0,l),
+(598,0,l),
+(598,150,l),
+(255,150,l)
+);
+}
+);
+width = 610;
+}
+);
+metricLeft = "=O";
+metricRight = "=O";
+}
