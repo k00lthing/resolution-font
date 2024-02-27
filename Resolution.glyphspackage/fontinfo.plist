@@ -1,5 +1,5 @@
 {
-.appVersion = "3151";
+.appVersion = "3200";
 .formatVersion = 3;
 axes = (
 {
@@ -100,6 +100,20 @@ weightClass = 900;
 widthClass = 9;
 }
 );
+kerningLTR = {
+m01 = {
+F = {
+J = -80;
+};
+L = {
+A = -25;
+C = -25;
+};
+T = {
+A = -25;
+};
+};
+};
 metrics = (
 {
 type = "cap height";
@@ -120,6 +134,122 @@ m01 = {
 };
 };
 GSDontShowVersionAlert = 1;
+"com.hugojourdan.ColorFlow-Report_Data" = {
+m002 = {
+A = None;
+B = None;
+C = None;
+D = None;
+E = None;
+F = None;
+G = None;
+H = None;
+I = None;
+J = None;
+K = None;
+L = None;
+M = None;
+N = None;
+O = None;
+P = None;
+Q = None;
+R = None;
+R.old = None;
+S = None;
+T = None;
+U = None;
+V = None;
+W = None;
+X = None;
+Y = None;
+Z = None;
+eight = None;
+five = None;
+four = None;
+nine = None;
+one = None;
+seven = None;
+six = None;
+space = None;
+three = None;
+two = None;
+zero = None;
+};
+m01 = {
+A = None;
+B = None;
+C = None;
+D = None;
+E = None;
+F = None;
+G = None;
+H = None;
+I = None;
+J = None;
+K = None;
+L = None;
+M = None;
+N = None;
+O = None;
+P = None;
+Q = None;
+R = None;
+R.old = None;
+S = None;
+T = None;
+U = None;
+V = None;
+W = None;
+X = None;
+Y = None;
+Z = None;
+eight = None;
+five = None;
+four = None;
+nine = None;
+one = None;
+seven = None;
+six = None;
+space = None;
+three = None;
+two = None;
+zero = None;
+};
+};
+"com.hugojourdan.ColorFlow-currentFont" = "<null>";
+"com.hugojourdan.ColorFlow-export" = "<null>";
+"com.hugojourdan.ColorFlow-master-data" = {
+m002 = {
+"0" = 0;
+"1" = 0;
+"10" = 0;
+"11" = 0;
+"2" = 0;
+"3" = 0;
+"4" = 0;
+"5" = 0;
+"6" = 0;
+"7" = 0;
+"8" = 0;
+"9" = 0;
+};
+m01 = {
+"0" = 0;
+"1" = 0;
+"10" = 0;
+"11" = 0;
+"2" = 0;
+"3" = 0;
+"4" = 0;
+"5" = 0;
+"6" = 0;
+"7" = 0;
+"8" = 0;
+"9" = 0;
+};
+};
+"com.hugojourdan.ColorFlow-selectedLayer" = 0;
+"com.hugojourdan.ColorFlow-selectedLayer-data" = "<null>";
 };
 versionMajor = 1;
 versionMinor = 0;
